@@ -1,5 +1,6 @@
 # Task Tracker
-This is an exercise to learn basics fundamentals of Angular.
+This is an exercise from Traversy Media - Angular crash course.</br>
+The project was developed during the course with the main objective to learn the basics fundamentals of Angular.
 
 ⚒️ Technologies used:
 
